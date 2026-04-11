@@ -1,5 +1,3 @@
-# MVP-Isadora-Silva-de-Sousa---SPRINT-An-lise-de-Dados-e-Boas-Pr-ticas
-
 Análise Exploratória de Dados de Filmes
 
 Análise exploratória de dados (EDA) de filmes, com dados de 1980 a 2020, para identificar fatores que influenciam o faturamento, como orçamento, gênero e produtora. Projeto MVP desenvolvido para a sprint de Análise de Dados e Boas Práticas da pós-graduação em Ciência de Dados e Analytics da PUC-Rio.
