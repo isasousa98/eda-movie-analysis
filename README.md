@@ -30,13 +30,16 @@ Como Executar
 - Google Colab
 
 Acesse o notebook diretamente pelo link abaixo:
-https://colab.research.google.com/drive/1kDkFWfLfiYm6vH9eAoJM44ET7AloMVpP?usp=sharing
+    https://colab.research.google.com/drive/1kDkFWfLfiYm6vH9eAoJM44ET7AloMVpP?usp=sharing
 
 Execução local
 - Instale as dependências:
     pip install pandas matplotlib seaborn kagglehub
 - Execute o notebook:
     jupyter notebook
+- Dataset
+    O dataset utilizado está disponível no Kaggle:
+    https://www.kaggle.com/datasets/danielgrijalvas/movies
   
 Estrutura do Projeto
 eda-movie-analysis
