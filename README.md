@@ -39,9 +39,9 @@ Execução local
     jupyter notebook
   
 Estrutura do Projeto
-📦 eda-movie-analysis
- ┣ 📜 eda-movie-analysis.ipynb
- ┗ 📜 README.md
+eda-movie-analysis
+    eda-movie-analysis.ipynb
+     README.md
  
 Principais Insights
 - O faturamento dos filmes apresenta alta variabilidade, com presença de outliers
